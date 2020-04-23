@@ -1,5 +1,6 @@
 <?php
 
+
 echo 'Hi my name is Rohan ingulkar';
 
 eho '<br/>';
@@ -10,12 +11,14 @@ echo 'Edited default branch';
 
 echo 'Added new Branch';
 
+echo 'checking conflicts';
+
 echo 'Good Bye';
 
-for($i=0; $i <= 5; $i++) {
-  echo $i;
-}
 
-echo 'Thank you';
+$a = ['w','gosda','g'];
+
+print_r($a);
+
 
 ?>
