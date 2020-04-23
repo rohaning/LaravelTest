@@ -1,16 +1,13 @@
 <?php
 
-echo 'Hi my name is Raj';
+
+echo 'Hi my name is Rohan ingulkar';
 
 eho '<br/>';
 
-echo 'I am a developer of laravel';
-
-echo 'Check test';
+echo 'I eat food';
 
 echo 'Edited default branch';
-
-echo '<br/>';
 
 echo 'Added new Branch';
 
@@ -18,8 +15,10 @@ echo 'checking conflicts';
 
 echo 'Good Bye';
 
+
 $a = ['w','gosda','g'];
 
 print_r($a);
+
 
 ?>
